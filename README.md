@@ -12,3 +12,12 @@
 - Написать функцию, которая заполняет масив случайными числами
 - 
 
+git clone
+cd TAB
+git branch new_name
+git checkout new_name
+git status
+git branch
+git add .
+git commit -m ""
+git push -u origin new_name
